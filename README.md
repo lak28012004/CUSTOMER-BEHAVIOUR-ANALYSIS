@@ -1,18 +1,96 @@
 # CUSTOMER-BEHAVIOUR-ANALYSIS
-Customer Behavior Dashboard (Python & Power BI)
-This repository hosts a project designed to analyze and visualize customer behavior data using Python for data processing and Power BI for interactive dashboard creation. 
-Overview
-The goal of this project is to provide actionable insights into customer purchasing habits, demographics, and trends. By transforming raw transactional data into a visual dashboard, stakeholders can make data-driven decisions to optimize marketing strategies, improve customer retention, and increase sales. 
-Technologies Used
-Python: Used for data cleaning, transformation, analysis, and generating processed datasets (likely .csv or direct database uploads).
-Key Libraries: pandas, numpy, scikit-learn (if segmentation is involved).
-Power BI: Utilized for data modeling, creating interactive visualizations, and publishing the final dashboard.
-SQL (Optional): May be used for initial data extraction or storage. 
-Project Structure
-The repository is organized into the following directories: 
-data/: Contains raw input data files (e.g., raw_transactions.csv).
-notebooks/: Includes exploratory data analysis (EDA) and data processing notebooks (e.g., customer_eda.ipynb, data_preprocessing.ipynb).
-src/: Contains any reusable Python scripts (e.g., clean_data.py).
-powerbi/: Stores the Power BI project file (.pbix) and any related assets.
-output/: The destination for processed data files used as input for the Power BI dashboard (e.g., processed_customer_data.csv).
-documentation/: Any supporting documents or data dictionaries. 
+ # 📊 Customer Behaviour Analytics Dashboard
+
+A **data-driven analytics project** that analyzes customer behaviour using **Python for data processing** and **Power BI for interactive visualization**.  
+This dashboard helps businesses understand customer patterns, preferences, and trends to support better decision-making.
+
+---
+
+## 🚀 Project Overview
+
+Customer behaviour analysis plays a crucial role in improving customer retention, personalization, and sales strategy.  
+This project focuses on:
+
+- Cleaning and transforming raw customer data using Python
+- Performing exploratory data analysis (EDA)
+- Creating an interactive and visually appealing Power BI dashboard
+- Generating actionable business insights
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib / Seaborn
+- **Power BI**
+  - Data Modeling
+  - DAX Measures
+  - Interactive Dashboards
+- **Data Source**
+  - CSV / SQL Database (customizable)
+
+---
+
+## 📂 Project Structure
+
+Customer-Behaviour-Dashboard/
+│
+├── data/
+│ ├── raw_data.csv
+│ └── processed_data.csv
+│
+├── notebooks/
+│ └── customer_behavior_analysis.ipynb
+│
+├── powerbi/
+│ └── Customer_Behaviour_Dashboard.pbix
+│
+├── scripts/
+│ └── data_preprocessing.py
+│
+├── images/
+│ └── dashboard_preview.png
+│
+├── requirements.txt
+└── README.md
+
+---
+
+## 🔄 Data Pipeline
+
+1. **Data Collection**
+   - Customer demographic and transaction data
+2. **Data Cleaning**
+   - Handling missing values
+   - Removing duplicates
+   - Feature engineering
+3. **Exploratory Data Analysis**
+   - Customer segmentation
+   - Purchase frequency
+   - Revenue contribution
+4. **Dashboard Creation**
+   - KPI cards
+   - Trend analysis
+   - Customer segmentation visuals
+
+---
+
+## 📈 Dashboard Features
+
+- 📌 Total Customers
+- 📌 Customer Segmentation
+- 📌 Purchase Frequency Analysis
+- 📌 Revenue Trends
+- 📌 Top Products & Categories
+- 📌 Customer Retention Insights
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/customer-behaviour-dashboard.git
+cd customer-behaviour-dashboard
