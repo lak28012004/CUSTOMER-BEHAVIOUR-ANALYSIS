@@ -99,10 +99,10 @@ Customer-Behaviour-Analysis/
 ![Dashboard Overview]("images/customer- behaviour.png")
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation]("")
+![Customer Segmentation]("images/cutomer_segmentation.png")
 
 ### 🔹 Revenue Trends
-![Revenue Trends]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\revenue_trends.png")
+![Revenue Trends]("images/revenue_trends.png")
 
 ### 🔹 Purchase Frequency Analysis
 ![Purchase Frequency](images/purchase_frequency.png)
