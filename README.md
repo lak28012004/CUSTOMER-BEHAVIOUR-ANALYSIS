@@ -96,13 +96,13 @@ Customer-Behaviour-Analysis/
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\customer- behaviour.png")
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\cutomer_segmentation.png")
 
 ### 🔹 Revenue Trends
-![Revenue Trends](images/revenue_trends.png)
+![Revenue Trends]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\revenue_trends.png")
 
 ### 🔹 Purchase Frequency Analysis
 ![Purchase Frequency](images/purchase_frequency.png)
