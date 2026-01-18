@@ -96,10 +96,10 @@ Customer-Behaviour-Analysis/
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\customer- behaviour.png")
+![Dashboard Overview]("images/customer- behaviour.png")
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\cutomer_segmentation.png")
+![Customer Segmentation]("")
 
 ### 🔹 Revenue Trends
 ![Revenue Trends]("C:\Users\LAKSHMAN\OneDrive\Pictures\Screenshots\revenue_trends.png")
