@@ -96,16 +96,17 @@ Customer-Behaviour-Analysis/
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview]("images/customer- behaviour.png")
+![Dashboard Overview](images/customer-behaviour.png)
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation]("images/cutomer_segmentation.png")
+![Customer Segmentation](images/cutomer_segmentation.png)
 
 ### 🔹 Revenue Trends
-![Revenue Trends]("images/revenue_trends.png")
+![Revenue Trends](images/revenue_trends.png)
 
 ### 🔹 Purchase Frequency Analysis
 ![Purchase Frequency](images/purchase_frequency.png)
+
 
 > 📌 *All visuals are created using Power BI with interactive slicers and DAX measures.*
 
