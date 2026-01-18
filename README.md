@@ -96,10 +96,10 @@ Customer-Behaviour-Analysis/
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](images/customer-behaviour.png)
+![Dashboard Overview]()
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation](images/cutomer_segmentation.png)
+![Customer Segmentation](images/customer_behaviour.png)
 
 ### 🔹 Revenue Trends
 ![Revenue Trends](images/revenue_trends.png)
